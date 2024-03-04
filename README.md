@@ -19,10 +19,4 @@ En el siguiente repositorio
 
 ## Clases
 
-- [Agenda.kt](src/main/kotlin/models/Agenda.kt)
-- [CuaUrgencies.kt](src/main/kotlin/models/CuaUrgencies.kt)
-- [ForaRangException.kt](src/main/kotlin/models/ForaRangException.kt)
-- [ListaDeNoms.kt](src/main/kotlin/models/ListaDeNoms.kt)
-- [Pacient.kt](src/main/kotlin/models/Pacient.kt)
-- [RepetitExcepion.kt](src/main/kotlin/models/RepetitExcepion.kt)
-
+- [NumeroMagico.kt](src/main/kotlin/models/NumeroMagico.kt)
