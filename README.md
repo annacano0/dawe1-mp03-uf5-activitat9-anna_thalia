@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x7JRLMGE)
 # GUI: Interficies Gràfiques d'Usuari
 
-En el siguiente repositorio
+El siguente repositorio contiene la actividad 9 donde empezamos a trabajar con las interficies de usuario mediante la libreria Javafx
 
 ## Autoras
 
